@@ -1,0 +1,6 @@
+server:
+  port: 8090
+girl:
+  name: B
+  age: 12
+
